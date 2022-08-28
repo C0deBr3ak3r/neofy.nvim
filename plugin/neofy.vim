@@ -1,3 +1,6 @@
+" Mantainer:C0deBr3ak3r
+" License:MIT
+
 scriptencoding utf-8
 
 if exists('neofy_loaded')
